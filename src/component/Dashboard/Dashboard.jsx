@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import api from "../../Service/api";
-import "./Dashboard.css";
+import "./Dashboard.cs";
 
 const Dashboard = () => {
   const [users, setUsers] = useState([]);
